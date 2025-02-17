@@ -1,4 +1,4 @@
-# In Class Problem Set 3
+# In Class Problem Set 3-Rebecah Leonard and Jamie Martino
 
 I used ComboBoxDemo.java a few years ago.  It used to compile cleanly.  Even though the code has not changed, it now  will not compile without throwing warnings.
 
