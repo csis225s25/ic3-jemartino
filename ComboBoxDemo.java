@@ -17,7 +17,8 @@ class ComboBoxDemo extends JFrame implements ItemListener {
 	// label
 	static JLabel label, label1;
 
-	// combobox
+	// comboBox 
+	// changed to JComboBox<String> to remove unchecked warning 
 	static JComboBox<String> cBox1;
 
 	// main class
