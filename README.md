@@ -6,6 +6,8 @@ Doing everything from a command prompt or Git Bash (no IDEs allowed), your missi
 
 
 **Changes to code**
+gave the JComboBox a type of string 
 
 
 **What caused it to stop working?**
+couldn't recognize what it was working with
